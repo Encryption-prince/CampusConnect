@@ -1,12 +1,12 @@
-#Club Management System
+# Club Management System
 
 ![Club Management System](path_to_your_banner_image.png)
 
-##Overview
+## Overview
 
 Welcome to the **Club Management System**! This platform is designed to help clubs and organizations manage their members, events, and communications with ease. Built with simplicity and efficiency in mind, our system streamlines the administrative tasks of running a club so you can focus on what matters most – engaging with your community.
 
-##Features
+## Features
 
 - **Member Management:** Easily add, remove, and update member information.
 - **Event Scheduling:** Plan and manage club events with an intuitive calendar.
@@ -14,7 +14,7 @@ Welcome to the **Club Management System**! This platform is designed to help clu
 - **Roles & Permissions:** Assign different roles and permissions to members.
 - **Activity Tracking:** Monitor attendance and participation in club activities.
 
-##Tech Stack
+## Tech Stack
 
 - **Frontend:** HTML, CSS, JS
 - **Backend:** Node.js with Express.js
@@ -22,7 +22,7 @@ Welcome to the **Club Management System**! This platform is designed to help clu
 - **Styling:** CSS
 - **Authentication:** JWT (JSON Web Tokens)
 
-##Getting Started
+## Getting Started
 
 ### Prerequisites
 
